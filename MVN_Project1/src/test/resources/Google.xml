@@ -1,0 +1,7 @@
+<suite name = "s1">
+<test name = "t1">
+<classes>
+<class name = "quicktest.Google"/>
+</classes>
+</test>
+</suite>

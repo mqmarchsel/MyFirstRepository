@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Vishu-PC" name="quicktest.Google" tests="1" failures="0" timestamp="11 Mar 2017 16:45:32 GMT" time="0.046" errors="0">
+  <testcase name="search" time="0.023" classname="quicktest.Google"/>
+</testsuite>
