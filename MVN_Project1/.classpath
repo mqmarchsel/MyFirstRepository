@@ -32,5 +32,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/ATUReporter_Selenium_testNG_5.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/ATUTestRecorder_2.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
